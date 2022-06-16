@@ -10,6 +10,8 @@ header {
     right: 0%;
     top: 0%;
     bottom: 98.39%;
+    width: 1440px;
+    height: 75px;
     
     background: #161B22;
 }
@@ -60,6 +62,14 @@ main {
 }
 
 /* general styling for main section */
+
+#intro {
+    position: absolute;
+    width: 811px;
+    height: 317px;
+    left: 315px;
+    top: 259px;
+}
 
 footer {
     text-align: center;
