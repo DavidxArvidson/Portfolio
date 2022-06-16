@@ -1,0 +1,117 @@
+html {
+    box-sizing: border-box;
+}
+
+/* setting border-box as the default for box-sizing for whole project */
+
+header {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 98.39%;
+    
+    background: #161B22;
+}
+
+header p {
+    position: absolute;
+    left: 4.38%;
+    right: 82.85%;
+    top: 0.45%;
+    bottom: 98.84%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+}
+
+nav {
+    position: absolute;
+    left: 60.69%;
+    right: 13.26%;
+    top: 0.56%;
+    bottom: 98.95%;
+}
+
+header button {
+    position: absolute;
+    left: 89.65%;
+    right: 1.81%;
+    top: 0.36%;
+    bottom: 98.76%;
+}
+
+footer {
+    text-align: center;
+    background: #f1aaae;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px;
+}
+
+/* general styling for header and footer section */
+
+.align-center {
+    text-align: center;
+}
+
+/* created class to align specific text to center */
+
+main {
+    background: #748e54;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+/* general styling for main section */
+
+a {
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+
+/* this creats a box for the link */
+
+    a:link {color: red;}
+    a:visited {color: black;}
+    a:hover {color: gold;}
+    a:active {color: blue}
+
+/* pseudo-classes for the links in the contact section */
+
+hr {
+    height: 10px;
+}
+
+/* setting height of the horizontal rules */
+
+.wrapper {
+    width: 700px;
+    margin: auto;
+}
+
+/* Wrapper class made to center all content */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+/* class made to center image */
