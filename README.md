@@ -7,7 +7,7 @@ This project is currently very much in development.
 This was developed using HTML and CSS.
 
 The live website is located here:
-* [Live Site]()
+* [Live Site](https://davidxarvidson.github.io/Portfolio/)
 
 ## About Me
 
