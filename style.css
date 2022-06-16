@@ -36,6 +36,8 @@ nav {
     right: 13.26%;
     top: 0.56%;
     bottom: 98.95%;
+
+    color: #FFFFFF;
 }
 
 header button {
@@ -45,6 +47,18 @@ header button {
     top: 0.36%;
     bottom: 98.76%;
 }
+
+/* header styling */
+
+main {
+    position: relative;
+    width: 1440px;
+    height: 4668px;
+    
+    background: #0E1117;
+}
+
+/* general styling for main section */
 
 footer {
     text-align: center;
@@ -61,15 +75,6 @@ footer {
 }
 
 /* created class to align specific text to center */
-
-main {
-    background: #748e54;
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 16px;
-}
-
-/* general styling for main section */
 
 hr {
     height: 10px;
