@@ -80,31 +80,3 @@ footer {
 }
 
 /* general styling for header and footer section */
-
-.align-center {
-    text-align: center;
-}
-
-/* created class to align specific text to center */
-
-hr {
-    height: 10px;
-}
-
-/* setting height of the horizontal rules */
-
-.wrapper {
-    width: 700px;
-    margin: auto;
-}
-
-/* Wrapper class made to center all content */
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
-}
-
-/* class made to center image */
