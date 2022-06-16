@@ -10,8 +10,6 @@ header {
     right: 0%;
     top: 0%;
     bottom: 98.39%;
-    width: 1440px;
-    height: 75px;
     
     background: #161B22;
 }
@@ -54,6 +52,9 @@ header button {
 
 main {
     color: white;
+    position: relative;
+    width: 1440px;
+    height: 4668px;
     
     background: #0E1117;
 }
