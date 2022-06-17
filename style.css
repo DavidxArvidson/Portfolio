@@ -61,7 +61,7 @@ main {
 
 /* general styling for main section */
 
-.container {
+.intro {
     position: absolute;
     width: 811px;
     height: 317px;
@@ -69,12 +69,32 @@ main {
     top: 259px;
 }
 
+/* main styling */
+
 footer {
-    text-align: center;
-    background: #f1aaae;
-    color: black;
-    font-family: 'Courier New', Courier, monospace;
-    padding: 0px;
+    position: absolute;
+    width: 1440px;
+    height: 169px;
+    left: 0px;
+    top: 4499px;
+    
+    background: #161B22;
 }
 
-/* general styling for header and footer section */
+.connect {
+    position: absolute;
+    width: 146px;
+    height: 85px;
+    left: 205px;
+    top: 4532px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #E7E7E7;
+}
+
+/* footer styling */
