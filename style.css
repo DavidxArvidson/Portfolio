@@ -97,4 +97,38 @@ footer {
     color: #E7E7E7;
 }
 
+.credit {
+    position: absolute;
+    width: 412px;
+    height: 18px;
+    left: 514px;
+    top: 4636px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    
+    color: #E7E7E7;
+}
+
+.email {
+    position: absolute;
+    width: 138px;
+    height: 18px;
+    left: 1098px;
+    top: 4589px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+    
+    color: #E7E7E7;
+}
+
 /* footer styling */
