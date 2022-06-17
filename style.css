@@ -131,4 +131,14 @@ footer {
     color: #E7E7E7;
 }
 
+hr {
+    position: absolute;
+    width: 667px;
+    height: 0px;
+    left: 391px;
+    top: 4600px;
+    
+    border: 1px solid #5386E4;
+}
+
 /* footer styling */
