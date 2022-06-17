@@ -5,7 +5,11 @@ html {
 /* setting border-box as the default for box-sizing for whole project */
 
 header {
-    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 98.39%;
     
     background: #161B22;
 }
