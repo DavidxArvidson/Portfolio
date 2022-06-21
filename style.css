@@ -131,7 +131,29 @@ footer {
     color: #E7E7E7;
 }
 
-hr {
+.about {
+    position: absolute;
+    width: 1092px;
+    height: 720px;
+    left: 175px;
+    top: 914px;
+}
+
+.number {
+    color: #5386E4;
+}
+
+.about hr {
+    position: absolute;
+    width: 1000px;
+    height: 0px;
+    left: 200px;
+    top: 920px;
+
+    border: 1px solid #5386E4;
+}
+
+footer hr {
     position: absolute;
     width: 667px;
     height: 0px;
