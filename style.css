@@ -137,6 +137,70 @@ main {
     color: #949396;
 }
 
+.technologies {
+    position: absolute;
+    width: 553px;
+    height: 29.79px;
+    left: 175px;
+    top: 1446.3px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #949396;
+}
+
+.javascript {
+    position: absolute;
+    width: 126px;
+    height: 29.79px;
+    left: 175px;
+    top: 1518.8px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #949396;
+}
+
+.express {
+    position: absolute;
+    width: 126px;
+    height: 29.79px;
+    left: 377px;
+    top: 1518.8px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #949396;
+}
+
+.react {
+    position: absolute;
+    width: 126px;
+    height: 29.79px;
+    left: 175px;
+    top: 1567.46px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #949396;
+}
+
 /* about styling */
 
 footer {
