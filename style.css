@@ -249,6 +249,54 @@ main {
     color: #949396;
 }
 
+.node {
+    position: absolute;
+    width: 126px;
+    height: 29.79px;
+    left: 175px;
+    top: 1615.13px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #949396;
+}
+
+.boots {
+    position: absolute;
+    width: 126px;
+    height: 29.79px;
+    left: 377px;
+    top: 1615.13px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #949396;
+}
+
+.git {
+    position: absolute;
+    width: 126px;
+    height: 29.79px;
+    left: 579px;
+    top: 1615.13px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #949396;
+}
+
 /* about styling */
 
 footer {
