@@ -297,6 +297,17 @@ main {
     color: #949396;
 }
 
+.image {
+    position: absolute;
+    width: 350px;
+    height: 347.59px;
+    left: 891px;
+    top: 998.41px;
+
+    background: url(86247491.jpg);
+    border-radius: 10px;
+}
+
 /* about styling */
 
 footer {
