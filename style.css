@@ -350,6 +350,16 @@ main {
     color: #E7E7E7;
 }
 
+.projects hr {
+    position: absolute;
+    width: 744.19px;
+    height: 0px;
+    left: 440px;
+    top: 1916px;
+
+    border: 1px solid #5386E4;
+}
+
 /* projects styling */
 
 footer {
