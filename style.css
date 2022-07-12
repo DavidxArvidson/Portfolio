@@ -360,6 +360,25 @@ main {
     border: 1px solid #5386E4;
 }
 
+.featureOne {
+    position: absolute;
+    width: 182px;
+    height: 19px;
+    left: 1002px;
+    top: 1971px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    color: #5386E4;
+}
+
 /* projects styling */
 
 footer {
