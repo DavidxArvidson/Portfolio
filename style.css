@@ -395,6 +395,23 @@ main {
     color: #E7E7E7;
 }
 
+.featureOneTools {
+    position: absolute;
+    width: 335px;
+    height: 34px;
+    left: 849px;
+    top: 2199px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+
+    color: #949396;
+}
+
 /* projects styling */
 
 footer {
