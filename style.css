@@ -362,6 +362,14 @@ main {
 
 .featureOne {
     position: absolute;
+    width: 927px;
+    height: 302px;
+    left: 257px;
+    top: 1971px;
+}
+
+.featureProjectOne {
+    position: absolute;
     width: 182px;
     height: 19px;
     left: 1002px;
