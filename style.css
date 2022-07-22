@@ -446,6 +446,33 @@ main {
     color: #5386E4;
 }
 
+.featureThree {
+    position: absolute;
+    width: 927px;
+    height: 302px;
+    left: 257px;
+    top: 2953px;
+}
+
+.featuredProjectThree {
+    position: absolute;
+    width: 182px;
+    height: 19px;
+    left: 1002px;
+    top: 2953px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    color: #5386E4;
+}
+
 /* projects styling */
 
 footer {
