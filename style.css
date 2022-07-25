@@ -446,6 +446,22 @@ main {
     color: #5386E4;
 }
 
+.featureTwoTitle {
+    position: absolute;
+    width: 182px;
+    height: 23px;
+    left: 257px;
+    top: 2485px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #E7E7E7;
+}
+
 .featureThree {
     position: absolute;
     width: 927px;
