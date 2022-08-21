@@ -508,22 +508,10 @@ main {
 /* projects styling */
 
 footer {
-    position: absolute;
-    width: 1440px;
-    height: 169px;
-    left: 0px;
-    top: 4499px;
-    
     background: #161B22;
 }
 
 .connect {
-    position: absolute;
-    width: 146px;
-    height: 85px;
-    left: 205px;
-    top: 4532px;
-    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -534,12 +522,6 @@ footer {
 }
 
 .credit {
-    position: absolute;
-    width: 412px;
-    height: 18px;
-    left: 514px;
-    top: 4636px;
-    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
@@ -551,12 +533,6 @@ footer {
 }
 
 .email {
-    position: absolute;
-    width: 138px;
-    height: 18px;
-    left: 1098px;
-    top: 4589px;
-    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
@@ -568,12 +544,6 @@ footer {
 }
 
 footer hr {
-    position: absolute;
-    width: 667px;
-    height: 0px;
-    left: 391px;
-    top: 4600px;
-    
     border: 1px solid #5386E4;
 }
 
