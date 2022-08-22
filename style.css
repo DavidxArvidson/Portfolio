@@ -314,9 +314,17 @@ main {
     position: absolute;
     width: 927.19px;
     height: 1571px;
+    left: 257px;
+    top: 1898px;
 }
 
 .projects .number {
+    position: absolute;
+    width: 38px;
+    height: 23px;
+    left: 257px;
+    top: 1898px;
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
@@ -327,6 +335,12 @@ main {
 }
 
 .projectsTitle {
+    position: absolute;
+    width: 107px;
+    height: 23px;
+    left: 305px;
+    top: 1898px;
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -337,6 +351,12 @@ main {
 }
 
 .projects hr {
+    position: absolute;
+    width: 744.19px;
+    height: 0px;
+    left: 440px;
+    top: 1916px;
+
     border: 1px solid #5386E4;
 }
 
@@ -344,9 +364,17 @@ main {
     position: absolute;
     width: 927px;
     height: 302px;
+    left: 257px;
+    top: 1971px;
 }
 
 .featureProjectOne {
+    position: absolute;
+    width: 182px;
+    height: 19px;
+    left: 1002px;
+    top: 1971px;
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -360,6 +388,12 @@ main {
 }
 
 .featureOneTitle {
+    position: absolute;
+    width: 182px;
+    height: 23px;
+    left: 1002px;
+    top: 1994px;
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -370,6 +404,12 @@ main {
 }
 
 .featureOneTools {
+    position: absolute;
+    width: 335px;
+    height: 34px;
+    left: 849px;
+    top: 2199px;
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
@@ -384,9 +424,17 @@ main {
     position: absolute;
     width: 927px;
     height: 302px;
+    left: 257px;
+    top: 2462px;
 }
 
 .featuredProjectTwo {
+    position: absolute;
+    width: 182px;
+    height: 19px;
+    left: 257px;
+    top: 2462px;
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -399,6 +447,12 @@ main {
 }
 
 .featureTwoTitle {
+    position: absolute;
+    width: 182px;
+    height: 23px;
+    left: 257px;
+    top: 2485px;
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -412,9 +466,17 @@ main {
     position: absolute;
     width: 927px;
     height: 302px;
+    left: 257px;
+    top: 2953px;
 }
 
 .featuredProjectThree {
+    position: absolute;
+    width: 182px;
+    height: 19px;
+    left: 1002px;
+    top: 2953px;
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -428,6 +490,12 @@ main {
 }
 
 .featureThreeTitle {
+    position: absolute;
+    width: 182px;
+    height: 23px;
+    left: 1002px;
+    top: 2976px;
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
