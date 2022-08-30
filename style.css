@@ -403,6 +403,22 @@ main {
     color: #E7E7E7;
 }
 
+.featureOneDesc {
+    position: absolute;
+    width: 408px;
+    height: 68px;
+    left: 734px;
+    top: 2081px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #949396;
+}
+
 .featureOneTools {
     position: absolute;
     width: 335px;
