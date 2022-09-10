@@ -478,6 +478,38 @@ main {
     color: #E7E7E7;
 }
 
+.featureTwoDesc {
+    position: absolute;
+    width: 408px;
+    height: 68px;
+    left: 298px;
+    top: 2572px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #949396;
+}
+
+.featureTwoTools {
+    position: absolute;
+    width: 335px;
+    height: 34px;
+    left: 257px;
+    top: 2690px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #949396;
+}
+
 .featureThree {
     position: absolute;
     width: 927px;
@@ -519,6 +551,39 @@ main {
     line-height: 29px;
 
     color: #E7E7E7;
+}
+
+.featureThreeDesc {
+    position: absolute;
+    width: 408px;
+    height: 68px;
+    left: 734px;
+    top: 3063px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #949396;
+}
+
+.featureThreeTools {
+    position: absolute;
+    width: 335px;
+    height: 34px;
+    left: 845px;
+    top: 3181px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+
+    color: #949396;
 }
 
 /* projects styling */
