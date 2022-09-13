@@ -586,6 +586,82 @@ main {
     color: #949396;
 }
 
+.others {
+    position: absolute;
+    width: 186px;
+    height: 23px;
+    left: 627px;
+    top: 3446px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #E7E7E7;
+}
+
+.otherProjectOne {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 308px;
+    top: 3519px;
+
+    background: #161B22;
+    border-radius: 10px;
+}
+
+.otherProjectOneTitle {
+    position: absolute;
+    width: 182px;
+    height: 23px;
+    left: 364px;
+    top: 3617px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #E7E7E7;
+}
+
+.otherProjectOneDesc {
+    position: absolute;
+    width: 289px;
+    height: 102px;
+    left: 364px;
+    top: 3663px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #949396;
+}
+
+.otherProjectOneTools {
+    position: absolute;
+    width: 140px;
+    height: 17px;
+    left: 364px;
+    top: 3816px;
+
+    font-family: 'Inter';   
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #949396;
+}
+
 /* projects styling */
 
 footer {
