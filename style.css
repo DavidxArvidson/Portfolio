@@ -662,6 +662,65 @@ main {
     color: #949396;
 }
 
+.otherProjectTwo {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 732px;
+    top: 3519px;
+
+    background: #161B22;
+    border-radius: 10px;
+}
+
+.otherProjectTwoTitle {
+    position: absolute;
+    width: 182px;
+    height: 23px;
+    left: 788px;
+    top: 3617px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #E7E7E7;
+}
+
+.otherProjectTwoDesc {
+    position: absolute;
+    width: 289px;
+    height: 102px;
+    left: 788px;
+    top: 3663px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #949396;
+}
+
+.otherProjectTwoTools {
+    position: absolute;
+    width: 140px;
+    height: 17px;
+    left: 788px;
+    top: 3816px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #949396;
+}
+
 /* projects styling */
 
 footer {
