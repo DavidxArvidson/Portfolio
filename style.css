@@ -756,7 +756,7 @@ main {
 
 /* projects styling */
 
-footer {
+.footerRec {
     position: absolute;
     width: 1440px;
     height: 169px;
