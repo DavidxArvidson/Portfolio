@@ -403,6 +403,17 @@ main {
     color: #E7E7E7;
 }
 
+.featureOneDescBox {
+    position: absolute;
+    width: 491px;
+    height: 137px;
+    left: 693px;
+    top: 2046px;
+
+    background: #161B22;
+    border-radius: 13px;
+}
+
 .featureOneDesc {
     position: absolute;
     width: 408px;
@@ -478,6 +489,17 @@ main {
     color: #E7E7E7;
 }
 
+.featureTwoDescBox {
+    position: absolute;
+    width: 491px;
+    height: 137px;
+    left: 257px;
+    top: 2537px;
+
+    background: #161B22;
+    border-radius: 13px;
+}
+
 .featureTwoDesc {
     position: absolute;
     width: 408px;
@@ -551,6 +573,17 @@ main {
     line-height: 29px;
 
     color: #E7E7E7;
+}
+
+.featureThreeDescBox {
+    position: absolute;
+    width: 491px;
+    height: 137px;
+    left: 693px;
+    top: 3028px;
+
+    background: #161B22;
+    border-radius: 13px;
 }
 
 .featureThreeDesc {
