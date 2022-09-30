@@ -4,7 +4,7 @@ html {
 
 /* setting border-box as the default for box-sizing for whole project */
 
-.headerRec {
+header {
     position: absolute;
     left: 0%;
     right: 0%;
@@ -756,7 +756,7 @@ main {
 
 /* projects styling */
 
-.footerRec {
+footer {
     position: absolute;
     width: 1440px;
     height: 169px;
