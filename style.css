@@ -4,7 +4,7 @@ html {
 
 /* setting border-box as the default for box-sizing for whole project */
 
-header {
+.headerRec {
     position: absolute;
     left: 0%;
     right: 0%;
